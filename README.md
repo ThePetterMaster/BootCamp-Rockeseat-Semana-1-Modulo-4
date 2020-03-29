@@ -15,7 +15,7 @@ yarn add multer
 # Extrutura de pastas para o multer
 Na raiz do projeto foi criada a pasta tmp,e dentro dela foi criada uploads que irá guardar as fotos das requisições.
 
-Em src/config foi criado o arquivo multer.js que basicamente diz onde os arquivos da requisição ficarão(tmp/uploads) e qual será o nome deles(um nome aleatório no caso).
+Em src/config foi criado o arquivo multer.js que basicamente diz onde os arquivos da requisição ficarão(tmp/uploads) e qual será o nome deles(um nome aleatório no caso). Depois disso ele exporta essa estrutura de dados para criação de uma variável para que seja usada em routes.js.
 
 # Arquivo src/config/multer.js
 ````
