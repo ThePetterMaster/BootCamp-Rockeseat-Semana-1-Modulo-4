@@ -36,3 +36,10 @@ export default {
     }),
 };
 ````
+
+# Lidando com datas
+É ultilizada a biblioteca date fns
+````
+yarn add date-fns@next
+````
+
