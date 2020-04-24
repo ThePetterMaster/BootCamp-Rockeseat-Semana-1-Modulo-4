@@ -43,3 +43,7 @@ export default {
 yarn add date-fns@next
 ````
 
+# Criando uma imagem para o mongo
+````
+docker run --name mongobarber -p 27017:27017 -d -t mongo
+````
