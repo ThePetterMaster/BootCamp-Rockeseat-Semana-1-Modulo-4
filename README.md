@@ -47,3 +47,13 @@ yarn add date-fns@next
 ````
 docker run --name mongobarber -p 27017:27017 -d -t mongo
 ````
+
+# O que é mongo
+É um banco de dados não relacional, isso significa que por exemplo cada tupla de um mesmo esquema podem ter atributos diferentes.
+
+# Instalando mongoose
+É um orm para mongo
+````
+yarn add mongoose
+
+````
