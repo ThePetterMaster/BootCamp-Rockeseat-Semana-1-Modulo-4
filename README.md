@@ -57,3 +57,10 @@ docker run --name mongobarber -p 27017:27017 -d -t mongo
 yarn add mongoose
 
 ````
+
+# Nodemailer
+
+É uma biblioteca de envio de email
+````
+yarn add nodemailer
+````
