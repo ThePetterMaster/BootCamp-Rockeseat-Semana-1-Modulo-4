@@ -64,3 +64,13 @@ yarn add mongoose
 ````
 yarn add nodemailer
 ````
+
+# Templates engines
+São arquivos html que recebem variáceis do node. Foi ultilizado o handlebars.
+````
+yarn add express-handlebars nodemailer-express-handlebars
+````
+
+express-handlebars=integração do handlebars com express.
+
+nodemailer-express-handlebars=integração do handlebars com nodemailer.
