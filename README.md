@@ -66,7 +66,7 @@ yarn add nodemailer
 ````
 
 # Templates engines
-São arquivos html que recebem variáceis do node. Foi ultilizado o handlebars.
+São arquivos html que recebem variáveis do node. Foi ultilizado o handlebars.
 ````
 yarn add express-handlebars nodemailer-express-handlebars
 ````
