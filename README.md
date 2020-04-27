@@ -81,6 +81,10 @@ nodemailer-express-handlebars=integração do handlebars com nodemailer.
 docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
 ````
 # Bee queue
-Ferramenta de filas no node.
+Ferramenta rápida de filas no node.
 
 https://github.com/bee-queue/bee-queue
+
+````
+yarn add bee-queue
+````
