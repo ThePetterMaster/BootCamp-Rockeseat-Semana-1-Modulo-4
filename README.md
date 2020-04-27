@@ -74,3 +74,9 @@ yarn add express-handlebars nodemailer-express-handlebars
 express-handlebars=integração do handlebars com express.
 
 nodemailer-express-handlebars=integração do handlebars com nodemailer.
+
+# Redis
+É outro banco de dados nosql. Seu diferencial é sua velocidade.
+````
+docker run --name redisbarber -p 6379:6379 -d -t redis:alpine
+````
