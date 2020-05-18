@@ -75,6 +75,12 @@ express-handlebars=integração do handlebars com express.
 
 nodemailer-express-handlebars=integração do handlebars com nodemailer.
 
+# MailTrap
+
+Serviço de e-mail ultilizado.
+
+https://mailtrap.io/
+
 # Redis
 É outro banco de dados nosql. Seu diferencial é sua velocidade.
 ````
